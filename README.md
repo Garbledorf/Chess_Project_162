@@ -12,8 +12,8 @@ Locations on the board are specified using "algebraic notation", with columns la
 ![board](board.png "starting position for game")
 
 Special rules for this variant of chess:
-**there is no check or *checkmate, and there is no castling, en passant, or pawn promotion**. 
-*If a player's king is captured, the game ends, and that player loses. 
+**there is no check or checkmate, and there is no castling, en passant, or pawn promotion**. 
+If a player's king is captured, the game ends, and that player loses. 
 
 Each of the players in the reserve has one piece of the **Falcon** and the **Hunter**.
 
